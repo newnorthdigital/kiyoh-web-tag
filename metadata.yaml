@@ -1,5 +1,5 @@
 homepage: "https://www.kiyoh.com"
 documentation: "https://github.com/newnorthdigital/kiyoh-web-tag/blob/main/README.md"
 versions:
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 9c666759c6faba0338639e62d4b3cb63dafb940f
     changeNotes: "Initial release - Kiyoh and Klantenvertellen review invite integration."
