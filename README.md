@@ -54,7 +54,7 @@ On the order confirmation page, this tag sends a GET request to the Kiyoh invite
 
 ## Author
 
-Created by [New North Digital](https://newnorth.digital)
+Created by [New North Digital](https://newnorth.digital?utm_source=github&utm_medium=gtm-template&utm_campaign=kiyoh-web-tag)
 
 ## License
 
