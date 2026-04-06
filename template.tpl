@@ -183,7 +183,7 @@ params = params + '&language=' + encodeUriComponent(makeString(data.language || 
 
 var inviteUrl = baseUrl + params;
 
-debugLog('Sending review invite: ' + inviteUrl);
+debugLog('Sending review invite for order: ' + makeString(data.refCode || 'N/A'));
 
 // Fire the invite request via sendPixel (GET request)
 // The API returns JSON, not an image, so onSuccess may not fire
