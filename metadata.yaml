@@ -1,5 +1,7 @@
 homepage: "https://www.kiyoh.com"
 documentation: "https://github.com/newnorthdigital/kiyoh-web-tag/blob/main/README.md"
 versions:
+  - sha: 34fb0d8887d105bb4b03e73034cebfc7d43c8f59
+    changeNotes: "Add ___TERMS_OF_SERVICE___ block required by Gallery validator."
   - sha: 9c666759c6faba0338639e62d4b3cb63dafb940f
     changeNotes: "Initial release - Kiyoh and Klantenvertellen review invite integration."
