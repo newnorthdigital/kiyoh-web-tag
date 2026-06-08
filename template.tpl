@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Kiyoh Review Invite",
+  "displayName": "Kiyoh Review Invite by New North Digital",
   "categories": ["MARKETING", "SURVEY"],
   "brand": {
     "id": "brand_dummy",
