@@ -1,6 +1,8 @@
 homepage: "https://www.kiyoh.com"
 documentation: "https://github.com/newnorthdigital/kiyoh-web-tag/blob/main/README.md"
 versions:
+  - sha: bf95bc44494635532970ae319b2ae24b2c832e41
+    changeNotes: 'NND-badge icon and shortened display name (by New North).'
   - sha: 68f7cccfe156cd6b9433dde75040e1847f3e1947
     changeNotes: "Rename displayName to 'Kiyoh Review Invite by New North Digital' per Gallery third-party naming rule (tag name by company)."
   - sha: 34fb0d8887d105bb4b03e73034cebfc7d43c8f59
